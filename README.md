@@ -15,8 +15,8 @@
 
 * 瞭解 HTML 語意。
 * 能不倚賴 Framework 完成 CSS 網頁排版 與 RWD 響應式設計。
-* 能使用 CSS3 的 Animate、transform 跟 transition。
-* 能使用 SCSS、SASS等預處理器 規劃 Web layout 架構。
+* 能使用 CSS3 的 Animate 、 transform 跟 transition。
+* 能使用 SCSS、SASS 等預處理器 規劃 Web layout 架構。
 
 ### Javascript / Framework
 
@@ -25,10 +25,10 @@
 * jQuery - 可使用 jQuery 自製簡易動畫效果、套用 Plugin 於網頁。
 * CSS Framework - 對 Bootstrap 、 Pure.css 有基本的認知。
 
-### Git/GitHub
+### Git / GitHub
 
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
-* 使用Git版本控制 (commit、branch...等)。
+* 使用 Git 版本控制 ( commit 、 branch ...等)。
 
 
 ***
@@ -56,7 +56,7 @@ Card mode、grid
 
 
 ### [BMI Calculator](https://ryin0424.github.io/BMI-Calculator/)
-JS、JSON製作
+JS 、 JSON 製作
 - 使用 JS 迴圈判斷 BMI 數值
 - 利用 JSON 儲存資料進 local Storage
 
