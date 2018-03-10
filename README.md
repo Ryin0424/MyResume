@@ -12,7 +12,7 @@
 ## Experience
 
 - 在 Monospace工作室 參與團隊協作專案
-- 第九屆 it邦鐵人賽完賽 ![菜鳥前端奮鬥史(欸?](https://ithelp.ithome.com.tw/users/20107640/ironman/1462)
+- 第九屆 it邦鐵人賽完賽 - [菜鳥前端奮鬥史(欸?](https://ithelp.ithome.com.tw/users/20107640)
 
 ***
 
@@ -29,22 +29,24 @@
 
 ### Javascript
 
-* 對原生 Javascript 有基礎的了解；目前針對 Vue.js 學習中。
-* 了解 JSON / Ajax ，會串接第三方 API ( Google Map 、OPEN DATA )。
-* jQuery - 可使用 jQuery 自製簡易動畫效果、套用 Plugin 於網頁。
-* Vue - 會使用 Vue-cli 開發。
+* 撰寫 Javascript ，了解 ES6 的語法。
+* 了解 JSON / Ajax ，會串接第三方 API ( Google Map 、OPEN DATA 、Firebase ...等)。
+* jQuery - 可使用 jQuery 自製動畫效果、套用 Plugin 於網頁。
+* Vue - 會使用 Vue-cli 進行開發。
 
 ### Git / GitHub
 
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
-* 使用 Git 版本控制 ( commit 、 branch ...等)。
-* 曾在 Monospace 工作室參與過團隊協作專案。
+* 會使用 Git 版本控制 ( commit 、 branch ...等)。
+* 曾在 Monospace 工作室參與過團隊協作專案，並使用 Github flow 做版本控制開發。
 
 ### Other
 
 * Gulp - 使用自動化工具便利開發。
 * Firebase - 使用 Firebase 作為資料庫開發專案。
+* 在專案上曾使用 Zenhub 、 Trello 等來幫助掌握團隊進度。
 * 目前在研究 Node.js 。
+* 進修 Vue.js 中。
 
 ***
 
@@ -56,19 +58,23 @@
 - 利用 jQuery 製作動畫效果
 - 自刻 RWD 版型
 
+### [台中公車動態系統](https://ryin0424.github.io/Taichunung-Bus/)
+台中公車動態查詢
+- 原生 Javascript 撰寫
+- 串接政府交通平台的 Open Data 的複數個 API
+- 使用 Firebase 做後端資料庫，並串接 FB 登入功能
+- RWD 響應式版型
 
 ### [Lorem Coffee](https://ryin0424.github.io/loremcoffee/)
 首支RWD自刻版專案
 - 自刻 RWD 版型
 - 套用第三方 Plugin
 
-
 ### [TRAVEL](https://ryin0424.github.io/TRAVEL/)
 Card mode、grid 
 - 首次嘗試使用 grid 格線系統管理 float
 - 純網頁版型展示
 - 使用 sass 編譯
-
 
 ### [BMI Calculator](https://ryin0424.github.io/BMI-Calculator/)
 JS 、 JSON 製作
