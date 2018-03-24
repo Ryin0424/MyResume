@@ -23,7 +23,7 @@
 * 瞭解 HTML 語意。
 * 能不倚賴 Framework 完成 CSS 網頁排版 與 RWD 響應式設計。
 * 能使用 CSS3 的 Animate 、 transform 跟 transition。
-* 了解 CAA flex box 排版。
+* 了解 CSS flex box 排版。
 * 會使用 scss、sass、Pug 等預處理器 規劃 Web layout 架構。
 * CSS Framework - 對 Bootstrap 、 Pure.css 有基本的認知。
 
