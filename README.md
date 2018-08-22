@@ -11,8 +11,14 @@
 
 ## Experience
 
-- 在 Monospace工作室 參與團隊協作專案
-- 第九屆 it邦鐵人賽完賽 - [菜鳥前端奮鬥史(欸?](https://ithelp.ithome.com.tw/users/20107640)
+- ### 金流平台商 - 網頁前端工程師(Front-end Developer) (2017/03 - 迄今)
+    - 參與公司網頁系統後台版型開發專案
+    - 開發公司後台查詢系統
+    - 了解 REStful api 運作
+    - 前、後端溝通，API 串接
+    - 使用 Vue.js，與後端 Laravel 合作開發
+- ### 在 Monospace工作室 參與團隊協作專案
+- ### 第九屆 it邦鐵人賽完賽 - [菜鳥前端奮鬥史(欸?](https://ithelp.ithome.com.tw/users/20107640)
 
 ***
 
@@ -20,33 +26,36 @@
 
 ### HTML / CSS
 
-* 瞭解 HTML 語意。
-* 能不倚賴 Framework 完成 CSS 網頁排版 與 RWD 響應式設計。
-* 能使用 CSS3 的 Animate 、 transform 跟 transition。
-* 了解 CSS flex box 排版。
-* 會使用 scss、sass、Pug 等預處理器 規劃 Web layout 架構。
-* CSS Framework - 對 Bootstrap 、 Pure.css 有基本的認知。
+* 撰寫 HTML5 語意化標籤
+* 能不倚賴 Framework 完成 CSS 網頁排版 與 RWD 響應式設計
+* 擅使用 CSS3 的 Animate 、 transform 跟 transition
+* 了解 CSS3 flexbox 排版
+* 會使用 scss、sass、Pug 等預處理器規劃 Web layout 架構，並對模組化開發有概念
+* CSS Framework - 對 Bootstrap 、 Pure.css 有基本的認知
+* 對於畫面切版有一定程度的自信
 
 ### Javascript
 
-* 撰寫 Javascript ，了解 ES6 的語法。
-* 了解 JSON / Ajax ，會串接第三方 API ( Google Map 、OPEN DATA 、Firebase ...等)。
-* jQuery - 可使用 jQuery 自製動畫效果、套用 Plugin 於網頁。
-* Vue - 會使用 Vue-cli 進行開發。
+* 了解並實務運用 ES6 
+* 熟悉 AJAX ，會串接第三方 API ( Google Map 、OPEN DATA 、Firebase ...等)，並有與後端實務開發專案的經驗
+* Vue.js - 會使用 Vue-cli 進行開發，cli 3.0目前還在研究中
+* 與 Laravel 搭配，使用 Vue 開發後台系統
+* jQuery - 可使用 jQuery 自製動畫效果、套用 Plugin 於網頁
 
 ### Git / GitHub
 
-* 能夠使用 GitHub Pages 建立一個靜態網頁。
-* 會使用 Git 版本控制 ( commit 、 branch ...等)。
-* 曾在 Monospace 工作室參與過團隊協作專案，並使用 Github flow 做版本控制開發。
+* 了解並會使用 Git 進行版控
+* 曾在 Monospace 工作室參與過團隊協作專案，並使用 Github flow 做版本控制開發
+
 
 ### Other
 
-* Gulp - 使用自動化工具便利開發。
-* Firebase - 使用 Firebase 作為資料庫開發專案。
-* 在專案上曾使用 Zenhub 、 Trello 等來幫助掌握團隊進度。
-* 目前在研究 Node.js 。
-* 進修 Vue.js 中。
+* Gulp - 會使用自動化工具便利開發，但目前使用頻率較低
+* Firebase - 使用 Firebase 作為資料庫開發專案
+* 在專案上曾使用 Zenhub 、 Trello 等來幫助掌握團隊進度
+* 後端部分目前在研究 Node.js 
+* 畫面部份最近在玩 Canvas 
+
 
 ***
 
