@@ -60,20 +60,20 @@
 
 ## Side Projects
 
-### [R-yin 我的前端路](https://ryin0424.github.io/Aboutme/)
-個人簡歷
-- 使用 scss 編譯
-- 利用 jQuery 製作動畫效果
-- 自刻 RWD 版型
+### [社畜柴柴](https://github.com/Ryin0424/discordBot_Shiba)
+Discord bot
+- Node.js 撰寫
+- 使用 Firebase 做後端資料庫
+- Heroku 部屬
 
-### [台中公車動態系統](https://ryin0424.github.io/Taichunung-Bus/)
+### [台中公車動態系統](https://github.com/Ryin0424/Taichunung-Bus_VanillaJS)
 台中公車動態查詢
 - 原生 JavaScript 撰寫
 - 串接政府交通平台的 Open Data 的複數個 API
 - 使用 Firebase 做後端資料庫，並串接 FB 登入功能
 - RWD 響應式版型
 
-### [Lorem Coffee](https://ryin0424.github.io/loremcoffee/)
+### [Lorem Coffee](https://github.com/Ryin0424/loremCoffee_CSS)
 首支RWD自刻版專案
 - 自刻 RWD 版型
 - 套用第三方 Plugin
