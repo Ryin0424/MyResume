@@ -10,39 +10,66 @@
 ***
 
 ## Experience
-- ### Aplus Accel Inc (remote) - 前端工程師(Frontend Developer) (2023/02 ~ 2023/09)
-    - 實體賭廳錢包 App 、前後台開發
-        - USDT 等虛擬貨幣申購、活存功能
-        - 使用 FingerPrint 等三方 API 強化登入安全性
-        - webAuthn API 生物驗證綁定功能
-    - 真人視訊遊戲開發
-        - 下注對賭相關流程防堵設計
-        - WS Protobuf(Protocol Buffers)串接
-    - 使用 Vite 打包開發
-    - 使用 Vue3 Pinia 開發
+- ### Aplus Accel Inc (remote) - 前端工程師(Frontend Developer) (2023/02 ~ 2023/10)
+    #### 帳房錢包
+      - 菲律賓實體貴賓廳現場使用的 App 前後台功能開發
+      - USDT 等虛擬貨幣申購、活存功能
+    #### 安全性
+      - 使用根據使用者裝置多項參數的字串並以 MD5 加密後，生成用戶 id，藉此減少三方 API 使用產生的費用
+      - 與後端實作 webAuthn API 調用裝置生物驗證(FaceId, TouchId)進行登入綁定
+    #### 真人荷官投注
+      - 視訊投注遊戲前後台開發
+      - 下注對賭相關流程防堵設計(ex:不可同時押莊閒)
+      - 盤局、投注內容、視訊串接等資料使用 proto3 與後端溝通，並實作心跳檢查機制，以確保 Websocket channel 沒有斷連
+    #### 團隊業務
+      - 撰寫完整開發文件及程式註解
+      - 完整的 gitflow 流程，commit 規範
+      - 每段 sprint 結束的 code review 及討論
+    #### 使用技術
+    `Vue3(Pinia)`, `TypeScript`, `chart.js`, `Websocket(ProtoBuf)`, `Webauthn`, `Element Plus`, `TailwindCss`, `scss`, `Vite`
+
 - ### 鑫城商務 - 前端工程師(Frontend Developer) (2022/05 ~ 2023 /02)
-    - 複數品牌包網 PC、H5、PWA App 開發維護。
-        - 落地頁、首頁活動跑馬燈......等官網客製化功能
-        - 整理陳舊程式碼，優化專案內的架構及語法
-        - 使用 FingerPrint 等三方 API 強化登入安全性，大幅降低 99% 的平台盜帳風險
-        - 導入 PWA 取代原先陳舊無法維護的 APP，同時減少了公司 APP 超級籤成本
-    - Vue3 + TypeScript 開發經驗
-    - 使用 Google Sheet 動態變更靜態維護頁資料
-    - Vant 手機端樣式開發經驗
-    - Vue + JSX 專案維護經驗
+    #### 複數品牌包網 PC、H5、PWA App 開發 & 維護
+      - Vue3 + TypeScript 開發經驗，部分專案使用 Vue2 + JSX(TSX) 
+      - 配合客戶需求客製化前台功能，如落地頁、首頁活動跑馬燈......等
+      - Vant 手機端樣式開發經驗
+      - 整理陳舊程式碼，優化專案內的架構及語法
+      - 使用 Google Sheet 動態變更靜態維護頁資料，使 PM 能更方便操作，有效降低 RD 版更需要的時間成本
+    #### PWA
+      - 導入 PWA 取代原先陳舊無法維護的 APP，同時減少了公司 APP 超級籤成本
+    #### 安全性
+      - 使用 FingerPrint.js 強化登入安全性，大幅降低 99% 的平台盜帳風險及簡訊費用
+    #### 團隊業務
+      - 建立開發文件筆記，以利後續維護
+      - 完整的 gitflow 流程，commit 規範及 gitlab wiki 建立
+    #### 使用技術
+    `Vue2.3(Vuex)`, `JSX`, `TypeScript`, `TSX`, `chart.js`, `FingerPrint.js`, `i18n`, `PWA`, `Element-UI`, `Vant`, `scss`, `webpack`
+
 - ### 究境國際 - 前端工程師(Frontend Developer) 投注分析部門 (2020/02 ~ 2022/05)
-    - 開發投注工具、多系統看盤畫面
-        - 配合後端爬蟲，統計開獎號碼、熱門號碼...等資訊，並搭配 chart.js 顯示
-        - 後台快速搶單、化牌、自動跟盤等功能，增加操作人員工作效率
-    - 使用 Vue3 開發遊戲前台
+    #### 看盤系統
+      - WebSocket 推播串接即時賠率資料
+    #### 資料視覺化
+      - 資金報表 & 圖表開發
+      - 配合後端爬蟲資料來顯示多間娛樂城賠率(類似球板的多項資料即時賠率)，並提供一鍵下單機制
+    #### 投注輔助工具
+      - 實作後台快速搶單、自動化牌、自動跟盤等功能，提升操盤人員業務效率
+    #### 使用技術：
+    `Vue2(Vuex)`, `chart.js`, `d3.js`, `lodash`, `WebSocket`, `adminLte Library`, `Bootstrap`, `scss`, `webpack`
+
 - ### 究境國際 - 前端工程師(Frontend Developer) 金流部門 (2018/03 ~ 2020/02)
-    - 重製公司後台單號查詢系統
-    - 開發金流系統前、後台
-    - 前、後端溝通，REStful API 開發 
-    - 串接後端 WebSocket 實作推播功能
-    - 使用 Vue.js (Vue2)，與後端 php (Laravel) 合作開發
+    #### 重製產品
+      - 重製公司後台單號查詢系統
+    #### 開發
+      - 開發金流系統前、後台
+      - 前、後端溝通，REStful API 開發 
+      - 串接後端 WebSocket 實作即時推播
+      - 使用 Vue.js (Vue2)，與後端 php (Laravel) 合作開發
+    #### 使用技術：
+    `Vue2(Vuex)`, `chart.js`, `d3.js`, `lodash`, `WebSocket`, `adminLte Library`, `Bootstrap`, `scss`, `webpack`
+
 - ### Monospace工作室  (2017/10 ~ 2018/03)
-    - 參與團隊協作專案，開發工作室訂便當系統
+    - 參與團隊協作專案，開發工作室[訂便當系統]((https://goodfood-beta.firebaseapp.com/))
+    
 - ### 2018 年第九屆 it邦鐵人賽完賽 (2017/12 ~ 2018/01)
     - [菜鳥前端奮鬥史(欸?](https://ithelp.ithome.com.tw/users/20107640)
 
@@ -55,11 +82,12 @@
 * 實務操作 ES6+ 語法糖 (ex: ES8 async/await)
 * 熟悉 AJAX ，串接第三方 API ( Google Map Open Data 、Firebase ...等)
 * Vue.js - 使用 Vue-cli 進行開發，Vue3 Composition API 實作經驗
-* 與 Laravel 搭配，使用 Vue 開發後台系統
 * Vue3 + TS 開發經驗
-* Vue + JSX 專案維護經驗
+* Vuex(Pinia) 開發經驗
+* Vue + JSX(TSX) 專案維護經驗
 * PWA 引入
-* 串接過 Webauthn API 及 fingerPrint 等多重驗證，增加平台帳號安全性
+* 串接過 Webauthn API 及 FingerPrint.js 等多重驗證三方 API，增加平台帳號安全性
+* 與 Laravel 搭配，使用 Vue 開發後台系統
 * jQuery - ~~可使用 jQuery 自製動畫效果、套用 Plugin~~ 久未使用純 JQ 語法進行開發，有所生疏，不過有文件輔助仍可實作
 
 
